@@ -1,0 +1,53 @@
+1. Inserción de un gestor.
+2. Inserción masiva de gestores con datos aleatorios.
+3. Obtención de un gestor.
+4. Obtención de todos los gestores.
+5. Actualización de un gestor.
+6. Eliminación de un gestor.
+7. Inserción de un cliente.
+8. Obtención de un cliente.
+9. Obtención de todos los clientes.
+10. Actualización de un cliente.
+11. Eliminación de un cliente.
+12. Obtención de un mensaje.
+13. Obtención de todos los mensajes.
+14. Envío de un mensaje.
+15. Obtención de una transferencia.
+16. Obtención de todas las trasferencias
+17. Envío de una transferencia.
+18. Login y registro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1-insertar un string------------     Scanner keyboard= new Scanner(System.in);
+2-constructor de gestor
+3-mostrar 1 gestor--------------     System.out.println(----.getGestor());
+4-mostrar todos los gestores----     System.out.println(----.getGestores());
+5-modifcar 1 de gestor----------     ----.setGestor();
+6-eliminar gestor---------------     ?
+7-insertar un string------------     Scanner keyboard1= new Scanner(System.in);
+8-mostrar 1 cliente-------------     System.out.println(----.getCliente());
+9-mostrar todos los clientes         System.out.println(----.getClientes());
+10-modificar 1 cliente               ----.setGestor();
+11-eliminar 1 cliente                ?
+12-obtencion de 1 mensaje	     private static void mensajeClientes2() { System.out.println("2--> Clientes");}     System.out.println(----.getMensaje());
+13-obtencion de todos los mensajes   private static void mensajeClientes2() { System.out.println("2--> Clientes");}     System.out.println(----.getMensajes());
+14-envio de 1 mensaje-NO DADO        ?
+15-mostrar 1 transferencia	     System.out.println(----.getTransferencia());
+16-mostrar todas las tranferencias   System.out.println(----.getTransferencias());
+17-envio de 1 transferencia-no dado  ?
+18-login y registro-NO DADO          ?
